@@ -1,4 +1,6 @@
-# TodoList
+
+# TodoList![Screenshot 2023-07-27 233059](https://github.com/Khaleeq01/Todo-app/assets/96943159/8ac91677-f60a-4ceb-af92-ea1d2310f135)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
